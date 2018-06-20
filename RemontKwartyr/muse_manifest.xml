@@ -1,0 +1,125 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remontkwartyri.github.io" resolutions="1x" timestamp="1529455579820">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="401308548" ref="index"/>
+    <file name="iefonts_index.css" crc="4252734673" ref="index"/>
+    <file name="diakujemo-za-zajawku.css" crc="4075343967" ref="diakujemo-za-zajawku"/>
+    <file name="iefonts_diakujemo-za-zajawku.css" crc="4172485741" ref="diakujemo-za-zajawku"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:diakujemo-za-zajawku"/>
+    <file name="museutils.js" crc="340535759" ref="index:diakujemo-za-zajawku"/>
+    <file name="whatinput.js" crc="86476730" ref="index:diakujemo-za-zajawku"/>
+    <file name="museconfig.js" crc="310584261" ref="index:diakujemo-za-zajawku"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:diakujemo-za-zajawku"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:diakujemo-za-zajawku"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u274.php" crc="4249588688" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form-u1517.php" crc="264461362" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:diakujemo-za-zajawku"/>
+  </folder>
+  <folder name="images">
+    <file name="4.jpg" crc="249048897" ref="index:diakujemo-za-zajawku">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone.svg" crc="354832225" seo="true" ref="index:diakujemo-za-zajawku">
+      <caption webpage="index" alt=""/>
+      <caption webpage="diakujemo-za-zajawku" alt=""/>
+    </file>
+    <file name="phone_poster_.png" crc="4054946475" ref="index"/>
+    <file name="paint-roller.svg" crc="189195509" seo="true" ref="index:diakujemo-za-zajawku">
+      <caption webpage="index" alt=""/>
+      <caption webpage="diakujemo-za-zajawku" alt=""/>
+    </file>
+    <file name="paint-roller_poster_.png" crc="6900884" ref="index"/>
+    <file name="money.svg" crc="3893075409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money_poster_.png" crc="164876844" ref="index"/>
+    <file name="wall.svg" crc="324543856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wall_poster_.png" crc="460947162" ref="index"/>
+    <file name="laborers.svg" crc="257221209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="laborers_poster_.png" crc="520316747" ref="index"/>
+    <file name="measuring-tape.svg" crc="169951518" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="measuring-tape_poster_.png" crc="503128035" ref="index"/>
+    <file name="quality.svg" crc="4209002922" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quality_poster_.png" crc="38800603" ref="index"/>
+    <file name="handshake.svg" crc="285992568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handshake_poster_.png" crc="377020839" ref="index"/>
+    <file name="1509391547_homepage-1_evroremont_kvartir.gif" crc="430797483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dizajn222x167.jpg" crc="3902935068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="article-097250x167.jpg" crc="4251761704" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dis_rem_12250x167.jpg" crc="234816896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="remont_kvartir_v_stile_loft262x167.jpg" crc="3873627188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="remont-kvartiry-moskva-1-1200x800250x167.jpg" crc="3957386771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="orig250x167.jpg" crc="4132070002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sovremennoy-remont-kvartiryi-v-kieve-1267x167.jpg" crc="119371835" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dizajn.jpg" crc="507463777" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="article-097.jpg" crc="129582739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dis_rem_12.jpg" crc="4137010831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="remont_kvartir_v_stile_loft.jpg" crc="3760707072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="remont-kvartiry-moskva-1-1200x800.jpg" crc="4015328104" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="orig.jpg" crc="495780208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sovremennoy-remont-kvartiryi-v-kieve-1.jpg" crc="439923588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="zamershic.png" crc="218932124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1688-4.png" crc="437846545" ref="index"/>
+    <file name="u1692-4.png" crc="3826238971" ref="index"/>
+    <file name="u1695-4.png" crc="357214935" ref="index"/>
+    <file name="u1698-4.png" crc="263244892" ref="index"/>
+    <file name="u1701-4.png" crc="256866385" ref="index"/>
+    <file name="дякуємо-за-заявку-favicon.ico" crc="3856670710" ref="diakujemo-za-zajawku"/>
+  </folder>
+  <file name="index.html" crc="4285723935" seo="true" mt="1529183604596" redirect="true"/>
+  <file name="diakujemo-za-zajawku.html" crc="3802666337" seo="true" mt="1529169074573" redirect="true"/>
+</manifest>
